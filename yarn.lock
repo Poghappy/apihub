@@ -4377,10 +4377,10 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-mailgen@^2.0.27:
-  version "2.0.27"
-  resolved "https://registry.npmjs.org/mailgen/-/mailgen-2.0.27.tgz"
-  integrity sha512-k+Q02hK/gI224JRw9FFW/yKgo3SbYOCTbfE0MsXx0YFOR9XMsdOPBhAbHH6fKvyDX6y1r4zvw9QIponQOippFQ==
+mailgen@^2.0.32:
+  version "2.0.32"
+  resolved "https://registry.yarnpkg.com/mailgen/-/mailgen-2.0.32.tgz#76f3d7152d75004a658e51782a63868e4a8f70ab"
+  integrity sha512-HneeLo8nxbRxK3g9DlT0ceqISyn/fam6yHAUq6yE2b9SHZ7uj3xYRU+8/nwPBXCIPRUXV3wijdGo9iE5io1EKg==
   dependencies:
     ejs "^3.1.6"
     he "^1.2.0"
